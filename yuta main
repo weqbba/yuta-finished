@@ -856,3 +856,27 @@ tL.Font = Enum.Font.Arcade
 tL.TextScaled = true -- scale
 tL.TextTransparency = 0.9 --opaque
 tL.Parent = sG
+Title = "Script Loaded Enjoy!",
+Text = "Made By Inferno.klolondiscord", 
+
+Button1 = "I Will",
+Button2 = "Love you :3",
+Duration = 6
+})
+game:GetService("StarterGui"):SetCore("SendNotification",{
+Title = "NOTICE!",
+Text = "Use Phantasm Not Required But use it", 
+
+Button1 = "Ok",
+Button2 = "K",
+Duration = 6
+})
+game:GetService("StarterGui"):SetCore("SendNotification",{
+Title = "NOTICE!",
+Text = " Custom Moveset Based Off Of Yuta From Jujutsu Kaisen.", 
+
+Button1 = "ok i know",
+Button2 = "kepupimtofasimtofas",
+Duration = 6
+})
+
